@@ -10,7 +10,7 @@
             "definitions/certificate",
             "definitions/timezone"
         ],
-        "human_version": "1.27.1_1.1.4",
+        "human_version": "1.27.1_1.1.5",
         "version": "1.1.5",
         "chart_metadata": {
             "name": "syncthing",
